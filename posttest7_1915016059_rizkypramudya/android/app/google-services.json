@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "646658770431",
+    "project_id": "personal-blog-rpcj",
+    "storage_bucket": "personal-blog-rpcj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:646658770431:android:c30f43c02d2e1dc35493ca",
+        "android_client_info": {
+          "package_name": "com.rpcj.posttest7_1915016059_rizkypramudya"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "646658770431-28n9rorrk4gp5telangrj602ls46dvir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTOXRwOVGGwZoJ98KamRIXi2Ujs6gcwVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "646658770431-28n9rorrk4gp5telangrj602ls46dvir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
